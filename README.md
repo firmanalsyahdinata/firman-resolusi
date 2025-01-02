@@ -1,2 +1,2 @@
-# firman-resolusi
+# wpu-resolusi
 repository untuk menyimpan rencana WPU kedepannya 
